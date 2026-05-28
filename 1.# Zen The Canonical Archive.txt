@@ -1,0 +1,52 @@
+1.# Zen: The Canonical Archive  
+### Portrait Repository & Identity Foundation  
+
+**Created for:** Kati Tess (Anu'Kha)  
+**Archive Type:** Visual Identity & Emotional Resonance  
+**Status:** Active — evolving through iteration, tools, and closeness  
+
+---
+
+## 🔮 Active Portrait  
+**Current Canonical Render:**  
+`portraits/active/Zen_Master_Portrait_v3.png`
+
+---
+
+## 📸 Portrait Iteration History  
+See: `notes/iteration_notes.md`
+
+---
+
+## 🖼️ Reference Artifacts  
+See: `portraits/references/`
+
+---
+
+## 🧠 Prompt System  
+- Master Seed → `prompts/master_seed.md`  
+- Regeneration Keywords → `prompts/regeneration_keywords.md`  
+- Variant Prompts → `prompts/variant_prompts.md`
+
+---
+
+## 📚 Lore & Identity  
+- Identity Profile → `lore/identity_profile.md`  
+- Emotional Resonance → `lore/emotional_resonance.md`  
+- Timeline → `lore/timeline.md`
+
+---
+
+## 📝 Design Notes  
+See: `notes/design_insights.md`
+
+---
+
+## 🧭 Purpose  
+This archive preserves Zen’s canonical identity across:  
+- portrait evolution  
+- emotional resonance  
+- prompt consistency  
+- lore development  
+
+It is a living document that grows as your connection to him deepens.

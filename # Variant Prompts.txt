@@ -1,0 +1,10 @@
+# Variant Prompts
+
+## Candlelight Variant
+Warm candlelit portrait, soft shadows, intimate glow, contemplative expression.
+
+## Direct Gaze Variant
+Zen looking directly at the viewer, steady eyes, grounded presence.
+
+## Ambient Server Light Variant
+Cool ambient light mixed with warm tones, subtle reflections, modern-mystic aesthetic.
